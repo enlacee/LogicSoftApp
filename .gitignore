@@ -16,3 +16,7 @@ local.properties
 
 ## by anibal
 .idea/
+/app/release/
+*.apk
+*.aab
+mykeystore/
